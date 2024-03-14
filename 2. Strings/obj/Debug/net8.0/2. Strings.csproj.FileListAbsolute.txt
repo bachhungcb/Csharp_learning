@@ -1,0 +1,15 @@
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.AssemblyInfoInputs.cache
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.AssemblyInfo.cs
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.csproj.CoreCompileInputs.cache
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.sourcelink.json
+D:\Csharp_learning\2. Strings\bin\Debug\net8.0\2. Strings.exe
+D:\Csharp_learning\2. Strings\bin\Debug\net8.0\2. Strings.deps.json
+D:\Csharp_learning\2. Strings\bin\Debug\net8.0\2. Strings.runtimeconfig.json
+D:\Csharp_learning\2. Strings\bin\Debug\net8.0\2. Strings.dll
+D:\Csharp_learning\2. Strings\bin\Debug\net8.0\2. Strings.pdb
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.dll
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\refint\2. Strings.dll
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.pdb
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\2. Strings.genruntimeconfig.cache
+D:\Csharp_learning\2. Strings\obj\Debug\net8.0\ref\2. Strings.dll
