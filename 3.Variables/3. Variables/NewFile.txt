@@ -1,0 +1,8 @@
+int  i = 1;
+byte b = i; se khong compile duoc, vi int chiem 4 byte ma byte thi chi chiem 1 byte, vi vay co the se gay ra mat du lieu cua 3 byte 
+
+nen ta se su dung ep kieu
+
+float f = 1.0f;
+
+int i = (int)f; // se tranh duoc viec bi mat du lieu
