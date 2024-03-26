@@ -1,0 +1,15 @@
+D:\Csharp_learning\6.UserInput\6.UserInput\bin\Debug\net8.0\6.UserInput.exe
+D:\Csharp_learning\6.UserInput\6.UserInput\bin\Debug\net8.0\6.UserInput.deps.json
+D:\Csharp_learning\6.UserInput\6.UserInput\bin\Debug\net8.0\6.UserInput.runtimeconfig.json
+D:\Csharp_learning\6.UserInput\6.UserInput\bin\Debug\net8.0\6.UserInput.dll
+D:\Csharp_learning\6.UserInput\6.UserInput\bin\Debug\net8.0\6.UserInput.pdb
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.AssemblyInfoInputs.cache
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.AssemblyInfo.cs
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.csproj.CoreCompileInputs.cache
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.sourcelink.json
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.dll
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\refint\6.UserInput.dll
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.pdb
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\6.UserInput.genruntimeconfig.cache
+D:\Csharp_learning\6.UserInput\6.UserInput\obj\Debug\net8.0\ref\6.UserInput.dll
