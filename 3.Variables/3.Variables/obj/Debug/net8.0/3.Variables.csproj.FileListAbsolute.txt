@@ -1,0 +1,15 @@
+D:\Csharp_learning\3.Variables\3.Variables\bin\Debug\net8.0\3.Variables.exe
+D:\Csharp_learning\3.Variables\3.Variables\bin\Debug\net8.0\3.Variables.deps.json
+D:\Csharp_learning\3.Variables\3.Variables\bin\Debug\net8.0\3.Variables.runtimeconfig.json
+D:\Csharp_learning\3.Variables\3.Variables\bin\Debug\net8.0\3.Variables.dll
+D:\Csharp_learning\3.Variables\3.Variables\bin\Debug\net8.0\3.Variables.pdb
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.AssemblyInfoInputs.cache
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.AssemblyInfo.cs
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.csproj.CoreCompileInputs.cache
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.sourcelink.json
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.dll
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\refint\3.Variables.dll
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.pdb
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\3.Variables.genruntimeconfig.cache
+D:\Csharp_learning\3.Variables\3.Variables\obj\Debug\net8.0\ref\3.Variables.dll
