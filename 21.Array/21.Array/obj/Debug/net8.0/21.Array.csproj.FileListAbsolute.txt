@@ -1,0 +1,15 @@
+D:\Csharp_learning\21.Array\21.Array\bin\Debug\net8.0\21.Array.exe
+D:\Csharp_learning\21.Array\21.Array\bin\Debug\net8.0\21.Array.deps.json
+D:\Csharp_learning\21.Array\21.Array\bin\Debug\net8.0\21.Array.runtimeconfig.json
+D:\Csharp_learning\21.Array\21.Array\bin\Debug\net8.0\21.Array.dll
+D:\Csharp_learning\21.Array\21.Array\bin\Debug\net8.0\21.Array.pdb
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.AssemblyInfoInputs.cache
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.AssemblyInfo.cs
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.csproj.CoreCompileInputs.cache
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.sourcelink.json
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.dll
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\refint\21.Array.dll
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.pdb
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\21.Array.genruntimeconfig.cache
+D:\Csharp_learning\21.Array\21.Array\obj\Debug\net8.0\ref\21.Array.dll
