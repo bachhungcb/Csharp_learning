@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Csharp_learning\\2.Output\\",
+  "WorkspaceRootPath": "D:\\Csharp_learning\\2.output\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8D4252F-5A95-49DE-AAB4-B89ED881D996}|2.Output\\2.Output.csproj|d:\\csharp_learning\\2.output\\2.output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8D4252F-5A95-49DE-AAB4-B89ED881D996}|2.Output\\2.Output.csproj|solutionrelative:2.output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD882767-960B-4D02-BD30-6AA4F42A8E80}|2.output\\2.output.csproj|d:\\csharp_learning\\2.output\\2.output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD882767-960B-4D02-BD30-6AA4F42A8E80}|2.output\\2.output.csproj|solutionrelative:2.output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Csharp_learning\\2.Output\\2.Output\\Program.cs",
-              "RelativeDocumentMoniker": "2.Output\\Program.cs",
-              "ToolTip": "D:\\Csharp_learning\\2.Output\\2.Output\\Program.cs",
-              "RelativeToolTip": "2.Output\\Program.cs",
+              "DocumentMoniker": "D:\\Csharp_learning\\2.output\\2.output\\Program.cs",
+              "RelativeDocumentMoniker": "2.output\\Program.cs",
+              "ToolTip": "D:\\Csharp_learning\\2.output\\2.output\\Program.cs",
+              "RelativeToolTip": "2.output\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T02:32:40.09Z",
+              "WhenOpened": "2024-03-26T02:39:40.871Z",
               "EditorCaption": ""
             }
           ]
