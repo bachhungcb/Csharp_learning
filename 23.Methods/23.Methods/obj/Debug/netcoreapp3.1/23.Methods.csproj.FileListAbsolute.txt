@@ -1,0 +1,14 @@
+D:\Csharp_learning\23.Methods\23.Methods\bin\Debug\netcoreapp3.1\23.Methods.exe
+D:\Csharp_learning\23.Methods\23.Methods\bin\Debug\netcoreapp3.1\23.Methods.deps.json
+D:\Csharp_learning\23.Methods\23.Methods\bin\Debug\netcoreapp3.1\23.Methods.runtimeconfig.json
+D:\Csharp_learning\23.Methods\23.Methods\bin\Debug\netcoreapp3.1\23.Methods.runtimeconfig.dev.json
+D:\Csharp_learning\23.Methods\23.Methods\bin\Debug\netcoreapp3.1\23.Methods.dll
+D:\Csharp_learning\23.Methods\23.Methods\bin\Debug\netcoreapp3.1\23.Methods.pdb
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.AssemblyInfoInputs.cache
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.AssemblyInfo.cs
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.csproj.CoreCompileInputs.cache
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.sourcelink.json
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.dll
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.pdb
+D:\Csharp_learning\23.Methods\23.Methods\obj\Debug\netcoreapp3.1\23.Methods.genruntimeconfig.cache
