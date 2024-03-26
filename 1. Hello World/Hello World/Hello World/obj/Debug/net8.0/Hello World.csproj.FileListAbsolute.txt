@@ -1,0 +1,15 @@
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\bin\Debug\net8.0\Hello World.exe
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\bin\Debug\net8.0\Hello World.deps.json
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\bin\Debug\net8.0\Hello World.runtimeconfig.json
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\bin\Debug\net8.0\Hello World.dll
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\bin\Debug\net8.0\Hello World.pdb
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfoInputs.cache
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfo.cs
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.csproj.CoreCompileInputs.cache
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.sourcelink.json
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.dll
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\refint\Hello World.dll
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.pdb
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
+D:\Csharp_learning\1. Hello World\Hello World\Hello World\obj\Debug\net8.0\ref\Hello World.dll
