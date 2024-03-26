@@ -1,0 +1,15 @@
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\bin\Debug\net8.0\7.ArithmeticOperators.exe
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\bin\Debug\net8.0\7.ArithmeticOperators.deps.json
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\bin\Debug\net8.0\7.ArithmeticOperators.runtimeconfig.json
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\bin\Debug\net8.0\7.ArithmeticOperators.dll
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\bin\Debug\net8.0\7.ArithmeticOperators.pdb
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.AssemblyInfoInputs.cache
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.AssemblyInfo.cs
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.csproj.CoreCompileInputs.cache
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.sourcelink.json
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.dll
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\refint\7.ArithmeticOperators.dll
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.pdb
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\7.ArithmeticOperators.genruntimeconfig.cache
+D:\Csharp_learning\7.ArithmeticOperators\7.ArithmeticOperators\obj\Debug\net8.0\ref\7.ArithmeticOperators.dll
