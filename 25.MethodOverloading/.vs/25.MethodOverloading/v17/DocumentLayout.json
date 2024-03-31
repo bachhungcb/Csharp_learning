@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp_learning\\25.MethodOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC747071-A6D4-4ED2-9F4D-1D481187FBDF}|25.MethodOverloading\\25.MethodOverloading.csproj|d:\\csharp_learning\\25.methodoverloading\\25.methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC747071-A6D4-4ED2-9F4D-1D481187FBDF}|25.MethodOverloading\\25.MethodOverloading.csproj|solutionrelative:25.methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp_learning\\25.MethodOverloading\\25.MethodOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "25.MethodOverloading\\Program.cs",
+              "ToolTip": "D:\\Csharp_learning\\25.MethodOverloading\\25.MethodOverloading\\Program.cs*",
+              "RelativeToolTip": "25.MethodOverloading\\Program.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:17:46.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
