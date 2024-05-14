@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp_learning\\MVCCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D81E51-3A38-4AB6-B19E-F5FDC2581828}|MVCCS\\MVCCS.csproj|d:\\csharp_learning\\mvccs\\mvccs\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D81E51-3A38-4AB6-B19E-F5FDC2581828}|MVCCS\\MVCCS.csproj|solutionrelative:mvccs\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D81E51-3A38-4AB6-B19E-F5FDC2581828}|MVCCS\\MVCCS.csproj|d:\\csharp_learning\\mvccs\\mvccs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D81E51-3A38-4AB6-B19E-F5FDC2581828}|MVCCS\\MVCCS.csproj|solutionrelative:mvccs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D81E51-3A38-4AB6-B19E-F5FDC2581828}|MVCCS\\MVCCS.csproj|d:\\csharp_learning\\mvccs\\mvccs\\controllers\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D81E51-3A38-4AB6-B19E-F5FDC2581828}|MVCCS\\MVCCS.csproj|solutionrelative:mvccs\\controllers\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Csharp_learning\\MVCCS\\MVCCS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Csharp_learning\\MVCCS\\MVCCS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T00:50:31.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Csharp_learning\\MVCCS\\MVCCS\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCS\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\Csharp_learning\\MVCCS\\MVCCS\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MVCCS\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T00:48:43.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "D:\\Csharp_learning\\MVCCS\\MVCCS\\Controllers\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "MVCCS\\Controllers\\HelloWorld.cs",
+              "ToolTip": "D:\\Csharp_learning\\MVCCS\\MVCCS\\Controllers\\HelloWorld.cs",
+              "RelativeToolTip": "MVCCS\\Controllers\\HelloWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:57:35.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
